@@ -1,0 +1,25 @@
+Notas para las consultas
+
+Para Consultar:
+
+    Fuentes de agua, opcion 19 - tipo_subsistema=0
+    Redes de Agua, opcion 19 - tipo_subsistema=1
+        Para los pertenecientes a, consultar:
+            opcion 21 - id_subsistema=* // imprimir nombre
+            ó
+            opcion 20 - id_subsistema=* // imprimir nombre y con esta opcion puedes obtener el estado del sensor // imprimir estado 
+
+    Consultar históricos fecha servidor:
+
+        opcion 24 - id_sensor=? fecha_inicial=YYYYMMDDhhmmss - fecha_final=YYYYMMDDhhmmss
+        Array
+        (
+            [0] => stdClass Object
+                (
+                    [idHisto] => 9078653
+                    [idSistema] => 2
+                    [idSensor] => 34
+                    [fecha] => 2022-03-14 11:50:01
+                    [dato] => 2.96
+                    [fechaRegistrado] => 2022-03-14 11:50:15
+                )

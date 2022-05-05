@@ -1,0 +1,6 @@
+test/
+*.*
+!*.js
+!*.json
+perf.js
+Gruntfile.js

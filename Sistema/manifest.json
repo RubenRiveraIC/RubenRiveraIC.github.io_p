@@ -1,0 +1,59 @@
+{
+  "name": "..:Web Telemetry | H-Tech:..",
+  "short_name": "Web Telemetry",
+  "description": "Bienvenid@s a #Web Telemetry, App de Telemetria, donde podras consultar los datos de Presion, Flujo y Nivel asi como los diferentes valores de las bombas mediante graficas segun sea tu sistema",
+  "background_color": "#FFFFFF",
+  "theme_color": "#025C91",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./principal.php",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./assets/img/WebTelemetry_ICON_1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/WebTelemetry_ICON_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/WebTelemetry_ICON_384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/WebTelemetry_ICON_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/WebTelemetry_ICON_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/WebTelemetry_ICON_128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/WebTelemetry_ICON_96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/WebTelemetry_ICON_64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/img/WebTelemetry_ICON_32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}
